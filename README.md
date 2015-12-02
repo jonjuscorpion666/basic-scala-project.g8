@@ -21,4 +21,12 @@ This is a fork of [fayimora/basic-scala-project.g8](https://github.com/fayimora/
 * Scalatest 1.9.1 for testing
 * Sbt 0.12.4
 * Scala 2.10.2
+#######
+
+How to install G8
+
+-> Install conscript . `curl https://raw.githubusercontent.com/n8han/conscript/master/setup.sh | sh`
+-> Install jdk if not installed
+-> run g8  `/Users/<user>/bin/cs  n8han/giter8
+-> run     `/Users/<user>/bin/g8  fayimora/basic-scala-project.g8
 
